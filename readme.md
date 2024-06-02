@@ -13,3 +13,6 @@
 4. Add new function to the main script (`main.py`) and call the function created in step 3, passing necessary parameters and possible saving the result to file. Make sure the function is decorated with `@cli_app.command()`
 5. Use click to add optional parameters to the function
 
+
+# NEXT STEPS
+Install local Graphdb (https://graphdb.ontotext.com) We will need it later.  
