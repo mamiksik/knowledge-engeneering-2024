@@ -33,7 +33,7 @@ def add_dates_to_graph(graph_ref: Graph, *, start_date, end_date):
         graph_ref.add((date_uri, RDF.type, ex.Date))
         graph_ref.add((date_uri, ex.timestamp, Literal(date_str)))
 
-    return graph_ref, date
+    return graph_ref, dates
 
 
 def save_graph_to_file(g: Graph, filename: str):
