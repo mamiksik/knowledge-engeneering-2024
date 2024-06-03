@@ -67,24 +67,10 @@ def add_stock_to_graph(g: GraphExt, ticker, company_info, stock_data):
 
 def import_sp_stock_data(
         graph_ref: GraphExt, *,
-        start_date="2020-01-01",
-        end_date="2020-01-31"
+        start_date,
+        end_date
 ):
     """Coordinates the data fetching, enrichment, and serialization processes"""
-
-    # Initialize nodes for all days between the specified start date and end date
-    dates = [dt.date() for dt in rrule(
-        DAILY,
-        dtstart=datetime.strptime(start_date, '%Y-%m-%d'),
-        until=datetime.strptime(end_date, '%Y-%m-%d')
-    )]
-
-    for date in dates:
-        date_str = date.strftime('%Y-%m-%d')
-        date_uri = URIRef(f"Date/{date_str}")
-        graph_ref.add((date_uri, RDF.type, ex.Date))
-        graph_ref.add((date_uri, ex.timestamp, Literal(date_str)))
-
     # Fetch S&P 500 companies
     sp500_companies = fetch_sp500_companies()
 

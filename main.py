@@ -1,6 +1,6 @@
 import click
 from lib import stock_info
-from utils import GraphExt, save_graph_to_file
+from utils import GraphExt, save_graph_to_file, add_dates_to_graph
 
 
 @click.group()
@@ -13,6 +13,7 @@ def cli_app():
 @click.option("--end-date", default="2020-01-31", help="End date for stock data")
 def stock_data_to_ttl(start_date, end_date):
     g = GraphExt()
+    add_dates_to_graph(g, start_date=start_date, end_date=end_date)
     stock_info.import_sp_stock_data(g, start_date=start_date, end_date=end_date)
     save_graph_to_file(g, "artifacts/stock_data.ttl")
 
