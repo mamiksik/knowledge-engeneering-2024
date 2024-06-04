@@ -56,11 +56,12 @@ def add_stock_to_graph(g: GraphExt, ticker, company_info, stock_data):
     for index, row in stock_data.iterrows():
         date_str = row.name.strftime("%Y-%m-%d")
         price_point_uri = URIRef(f"PricePoint/{ticker}/{date_str}")
+        date_node = URIRef(f"Date/{date_str}")
         g.add([
             (price_point_uri, RDF.type, ex.PricePoint),
             (stock_uri, ex.hasPrice, price_point_uri),
             (price_point_uri, ex.hasTickerSymbol, Literal(ticker)),
-            (price_point_uri, ex.onDay, URIRef(f"Date/{date_str}")),
+            (price_point_uri, ex.onDay, date_node),
             (price_point_uri, ex.hasClosingPrice, Literal(row['Close']))
         ])
 

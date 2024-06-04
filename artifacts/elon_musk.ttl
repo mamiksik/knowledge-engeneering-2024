@@ -1,0 +1,1763 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<Date/2020-01-01> a <KEADate> ;
+    <KEAtimestamp> "2020-01-01" .
+
+<Date/2020-01-02> a <KEADate> ;
+    <KEAtimestamp> "2020-01-02" .
+
+<Date/2020-01-03> a <KEADate> ;
+    <KEAtimestamp> "2020-01-03" .
+
+<Date/2020-01-04> a <KEADate> ;
+    <KEAtimestamp> "2020-01-04" .
+
+<Date/2020-01-05> a <KEADate> ;
+    <KEAtimestamp> "2020-01-05" .
+
+<Date/2020-01-06> a <KEADate> ;
+    <KEAtimestamp> "2020-01-06" .
+
+<Date/2020-01-07> a <KEADate> ;
+    <KEAtimestamp> "2020-01-07" .
+
+<Date/2020-01-08> a <KEADate> ;
+    <KEAtimestamp> "2020-01-08" .
+
+<Date/2020-01-09> a <KEADate> ;
+    <KEAtimestamp> "2020-01-09" .
+
+<Date/2020-01-10> a <KEADate> ;
+    <KEAtimestamp> "2020-01-10" .
+
+<Date/2020-01-11> a <KEADate> ;
+    <KEAtimestamp> "2020-01-11" .
+
+<Date/2020-01-12> a <KEADate> ;
+    <KEAtimestamp> "2020-01-12" .
+
+<Date/2020-01-13> a <KEADate> ;
+    <KEAtimestamp> "2020-01-13" .
+
+<Date/2020-01-14> a <KEADate> ;
+    <KEAtimestamp> "2020-01-14" .
+
+<Date/2020-01-15> a <KEADate> ;
+    <KEAtimestamp> "2020-01-15" .
+
+<Date/2020-01-16> a <KEADate> ;
+    <KEAtimestamp> "2020-01-16" .
+
+<Date/2020-01-17> a <KEADate> ;
+    <KEAtimestamp> "2020-01-17" .
+
+<Date/2020-01-18> a <KEADate> ;
+    <KEAtimestamp> "2020-01-18" .
+
+<Date/2020-01-19> a <KEADate> ;
+    <KEAtimestamp> "2020-01-19" .
+
+<Date/2020-01-20> a <KEADate> ;
+    <KEAtimestamp> "2020-01-20" .
+
+<Date/2020-01-21> a <KEADate> ;
+    <KEAtimestamp> "2020-01-21" .
+
+<Date/2020-01-22> a <KEADate> ;
+    <KEAtimestamp> "2020-01-22" .
+
+<Date/2020-01-23> a <KEADate> ;
+    <KEAtimestamp> "2020-01-23" .
+
+<Date/2020-01-24> a <KEADate> ;
+    <KEAtimestamp> "2020-01-24" .
+
+<Date/2020-01-25> a <KEADate> ;
+    <KEAtimestamp> "2020-01-25" .
+
+<Date/2020-01-26> a <KEADate> ;
+    <KEAtimestamp> "2020-01-26" .
+
+<Date/2020-01-27> a <KEADate> ;
+    <KEAtimestamp> "2020-01-27" .
+
+<Date/2020-01-28> a <KEADate> ;
+    <KEAtimestamp> "2020-01-28" .
+
+<Date/2020-01-29> a <KEADate> ;
+    <KEAtimestamp> "2020-01-29" .
+
+<Date/2020-01-30> a <KEADate> ;
+    <KEAtimestamp> "2020-01-30" .
+
+<Date/2020-01-31> a <KEADate> ;
+    <KEAtimestamp> "2020-01-31" .
+
+<KEAtweet_8901> a <KEATweet> ;
+    <KEAhasLikes> 3144 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 2e-01 ;
+    <KEAhasText> "@Erdayastronaut @Blamblas @latimes @SpaceX @blueorigin Exactly. Mars propellant production will combine atmospheric CO2 &amp; water (ice) to make CH4 (methane) &amp; O2. Will do same on Earth long-term. Short-term, each Falcon flight uses roughly same fuel mass as a 747 flight. Falcon is ~71% oxygen &amp; Starship is ~78%, so mostly not fuel." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8901>,
+        "2020-01-30 23:00:44+00:00" .
+
+<KEAtweet_8902> a <KEATweet> ;
+    <KEAhasLikes> 8199 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@thirdrowtesla This number won’t leave me alone! 🤣🤣" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8902>,
+        "2020-01-30 21:47:22+00:00" .
+
+<KEAtweet_8903> a <KEATweet> ;
+    <KEAhasLikes> 172185 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Just wrote a song called “Don’t doubt yer vibe”" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8903>,
+        "2020-01-30 20:41:37+00:00" .
+
+<KEAtweet_8904> a <KEATweet> ;
+    <KEAhasLikes> 12896 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@waitbutwhy @NSF @kottke we r smôl" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8904>,
+        "2020-01-30 06:18:26+00:00" .
+
+<KEAtweet_8905> a <KEATweet> ;
+    <KEAhasLikes> 101628 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "🕺" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8905>,
+        "2020-01-30 03:13:12+00:00" .
+
+<KEAtweet_8906> a <KEATweet> ;
+    <KEAhasLikes> 904 ;
+    <KEAhasSentiment> -1e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.833333e-01 ;
+    <KEAhasText> "@jeff_foust @SciGuySpace Ok, not so bad" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8906>,
+        "2020-01-29 19:52:57+00:00" .
+
+<KEAtweet_8907> a <KEATweet> ;
+    <KEAhasLikes> 1573 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@SciGuySpace Who is hating on ISRU &amp; why? Doesn’t make sense." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8907>,
+        "2020-01-29 19:52:20+00:00" .
+
+<KEAtweet_8908> a <KEATweet> ;
+    <KEAhasLikes> 330653 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "A friend just sent me this excerpt from a Tesla blog I wrote 14 years ago https://t.co/Hr8w52ithY" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8908>,
+        "2020-01-29 19:08:09+00:00" .
+
+<KEAtweet_8909> a <KEATweet> ;
+    <KEAhasLikes> 1456 ;
+    <KEAhasSentiment> 5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5e-01 ;
+    <KEAhasText> "@SciGuySpace Tonnage delivered to orbit, normalized to LEO, would be interesting to see" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8909>,
+        "2020-01-29 18:57:08+00:00" .
+
+<KEAtweet_8910> a <KEATweet> ;
+    <KEAhasLikes> 4260 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@SciGuySpace If all goes well, Falcon 9 will achieve triple digits this year" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8910>,
+        "2020-01-29 18:56:13+00:00" .
+
+<KEAtweet_8911> a <KEATweet> ;
+    <KEAhasLikes> 2084 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@FuturamaKing Ice" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8911>,
+        "2020-01-29 03:56:03+00:00" .
+
+<KEAtweet_8912> a <KEATweet> ;
+    <KEAhasLikes> 3570 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@DJTopherLee 8.5 bar" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8912>,
+        "2020-01-29 03:53:44+00:00" .
+
+<KEAtweet_8913> a <KEATweet> ;
+    <KEAhasLikes> 60828 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Liquid nitrogen cryogenic strength test underway ☃️ https://t.co/qRPBLInqm0" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8913>,
+        "2020-01-29 03:51:38+00:00" .
+
+<KEAtweet_8914> a <KEATweet> ;
+    <KEAhasLikes> 26536 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "🪑" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8914>,
+        "2020-01-29 03:45:52+00:00" .
+
+<KEAtweet_8915> a <KEATweet> ;
+    <KEAhasLikes> 5778 ;
+    <KEAhasSentiment> -2.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4e-01 ;
+    <KEAhasText> "@universal_sci Matter is extremely fluffy!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8915>,
+        "2020-01-29 03:44:42+00:00" .
+
+<KEAtweet_8916> a <KEATweet> ;
+    <KEAhasLikes> 270467 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Chairs are underappreciated" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8916>,
+        "2020-01-28 19:34:43+00:00" .
+
+<KEAtweet_8917> a <KEATweet> ;
+    <KEAhasLikes> 48403 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "The stars in Starship’s mirrored hull reflected" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8917>,
+        "2020-01-28 05:30:00+00:00" .
+
+<KEAtweet_8918> a <KEATweet> ;
+    <KEAhasLikes> 119879 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@DavidDobrik !" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8918>,
+        "2020-01-28 05:16:12+00:00" .
+
+<KEAtweet_8919> a <KEATweet> ;
+    <KEAhasLikes> 2044 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@John_Gardi @Erdayastronaut Already being done" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8919>,
+        "2020-01-28 00:15:15+00:00" .
+
+<KEAtweet_8920> a <KEATweet> ;
+    <KEAhasLikes> 2350 ;
+    <KEAhasSentiment> 3.333333e-02 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.666667e-01 ;
+    <KEAhasText> "@Erdayastronaut Parent material strength roughly doubles, so weld strength is the only real question mark" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8920>,
+        "2020-01-28 00:01:40+00:00" .
+
+<KEAtweet_8921> a <KEATweet> ;
+    <KEAhasLikes> 1640 ;
+    <KEAhasSentiment> 1.75e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 3.666667e-01 ;
+    <KEAhasText> "@HarryStoltz1 @Erdayastronaut @SpaceX First two domes of SN1 are almost complete" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8921>,
+        "2020-01-27 23:52:36+00:00" .
+
+<KEAtweet_8922> a <KEATweet> ;
+    <KEAhasLikes> 1973 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Erdayastronaut Yes" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8922>,
+        "2020-01-27 23:51:01+00:00" .
+
+<KEAtweet_8923> a <KEATweet> ;
+    <KEAhasLikes> 26912 ;
+    <KEAhasSentiment> -2.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4e-01 ;
+    <KEAhasText> "Starship 9m test tank made 7.5 bar at room temp! Small leak at a weld doubler. Will be repaired &amp; retested at cryo. https://t.co/Bz3lrwkYRU" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8923>,
+        "2020-01-27 23:30:09+00:00" .
+
+<KEAtweet_8924> a <KEATweet> ;
+    <KEAhasLikes> 1344 ;
+    <KEAhasSentiment> 4.125e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4e-01 ;
+    <KEAhasText> "@EvaFoxU @Jf323Jf @naturenick The good old days!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8924>,
+        "2020-01-26 20:23:02+00:00" .
+
+<KEAtweet_8925> a <KEATweet> ;
+    <KEAhasLikes> 4736 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Jf323Jf @naturenick We’re working on it" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8925>,
+        "2020-01-26 06:33:42+00:00" .
+
+<KEAtweet_8926> a <KEATweet> ;
+    <KEAhasLikes> 5561 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@spongbob_facts Too niche" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8926>,
+        "2020-01-25 21:18:36+00:00" .
+
+<KEAtweet_8927> a <KEATweet> ;
+    <KEAhasLikes> 7593 ;
+    <KEAhasSentiment> 6e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 1e+00 ;
+    <KEAhasText> "@flcnhvy Nice" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8927>,
+        "2020-01-25 18:36:12+00:00" .
+
+<KEAtweet_8928> a <KEATweet> ;
+    <KEAhasLikes> 107370 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Meme necromancy https://t.co/8aPtXju7gF" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8928>,
+        "2020-01-25 18:30:28+00:00" .
+
+<KEAtweet_8929> a <KEATweet> ;
+    <KEAhasLikes> 1996 ;
+    <KEAhasSentiment> 1.787879e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4.515152e-01 ;
+    <KEAhasText> "@IheartTesla @EvaFoxU @Tesla Going with nomenclature of Giga [most widely understood location name] vs Giga #, so Giga Shanghai, Giga Nevada, Giga New York &amp; Giga Berlin" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8929>,
+        "2020-01-25 05:35:57+00:00" .
+
+<KEAtweet_8930> a <KEATweet> ;
+    <KEAhasLikes> 3878 ;
+    <KEAhasSentiment> 2.613636e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4.781145e-01 ;
+    <KEAhasText> "@IheartTesla @EvaFoxU @Tesla For sure. Giga Berlin will build sustainable energy vehicles using sustainable energy, so net environmental impact will be extremely positive!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8930>,
+        "2020-01-25 05:31:10+00:00" .
+
+<KEAtweet_8931> a <KEATweet> ;
+    <KEAhasLikes> 1288 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@teslaownersSV @Kristennetten @EvaFoxU @Tesla Yes" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8931>,
+        "2020-01-25 05:27:04+00:00" .
+
+<KEAtweet_8932> a <KEATweet> ;
+    <KEAhasLikes> 1404 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@HarryStoltz1 @EvaFoxU @Tesla Yes" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8932>,
+        "2020-01-25 05:25:25+00:00" .
+
+<KEAtweet_8933> a <KEATweet> ;
+    <KEAhasLikes> 863 ;
+    <KEAhasSentiment> 3.125e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 2.5e-01 ;
+    <KEAhasText> "@Kristennetten @EvaFoxU @Tesla Exactly!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8933>,
+        "2020-01-25 05:24:47+00:00" .
+
+<KEAtweet_8934> a <KEATweet> ;
+    <KEAhasLikes> 1415 ;
+    <KEAhasSentiment> 2e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 9e-01 ;
+    <KEAhasText> "@EvaFoxU @Tesla Giga Berlin / GF4 will absolutely be designed with sustainability and the environment in mind" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8934>,
+        "2020-01-25 05:22:39+00:00" .
+
+<KEAtweet_8935> a <KEATweet> ;
+    <KEAhasLikes> 5682 ;
+    <KEAhasSentiment> -3.888889e-02 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4.203704e-01 ;
+    <KEAhasText> "@EvaFoxU @Tesla Sounds like we need to clear up a few things! Tesla won’t use this much net water on a daily basis. It’s possibly a rare peak usage case, but not an everyday event. Also, this is not a natural forest — it was planted for use as cardboard &amp; only a small part will be used for GF4." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8935>,
+        "2020-01-25 05:17:04+00:00" .
+
+<KEAtweet_8936> a <KEATweet> ;
+    <KEAhasLikes> 6427 ;
+    <KEAhasSentiment> 1e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4.5e-01 ;
+    <KEAhasText> "@Erdayastronaut @TrevorMahlmann @Tesla V3 Supercharger deployment will accelerate considerably this year" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8936>,
+        "2020-01-24 18:00:26+00:00" .
+
+<KEAtweet_8937> a <KEATweet> ;
+    <KEAhasLikes> 137813 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "https://t.co/sGnhzoThtK" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8937>,
+        "2020-01-24 02:54:47+00:00" .
+
+<KEAtweet_8938> a <KEATweet> ;
+    <KEAhasLikes> 1418 ;
+    <KEAhasSentiment> 2.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 7.5e-01 ;
+    <KEAhasText> "@Everman @Erdayastronaut Yeah, system should adapt to most likely destination &amp; anticipate school, then work, if that’s owner preference" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8938>,
+        "2020-01-23 20:33:35+00:00" .
+
+<KEAtweet_8939> a <KEATweet> ;
+    <KEAhasLikes> 793 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5e-01 ;
+    <KEAhasText> "@Everman @Erdayastronaut Definitely" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8939>,
+        "2020-01-23 20:30:47+00:00" .
+
+<KEAtweet_8940> a <KEATweet> ;
+    <KEAhasLikes> 12061 ;
+    <KEAhasSentiment> 5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5e-01 ;
+    <KEAhasText> "@Erdayastronaut Ok" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8940>,
+        "2020-01-23 20:29:34+00:00" .
+
+<KEAtweet_8941> a <KEATweet> ;
+    <KEAhasLikes> 5474 ;
+    <KEAhasSentiment> -8e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 1e+00 ;
+    <KEAhasText> "@SciGuySpace We should have a base on the moon, a city on Mars" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8941>,
+        "2020-01-23 15:27:51+00:00" .
+
+<KEAtweet_8942> a <KEATweet> ;
+    <KEAhasLikes> 2750 ;
+    <KEAhasSentiment> 5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6e-01 ;
+    <KEAhasText> "@flcnhvy @amancalledscott @ChrisDungeon @mithunoorath I love that Heart of Gold is moved by Infinite Improbability" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8942>,
+        "2020-01-23 06:44:49+00:00" .
+
+<KEAtweet_8943> a <KEATweet> ;
+    <KEAhasLikes> 14100 ;
+    <KEAhasSentiment> 4e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 7e-01 ;
+    <KEAhasText> "@amancalledscott @ChrisDungeon @mithunoorath We should strive to extend the light of consciousness into the cosmos" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8943>,
+        "2020-01-23 06:12:10+00:00" .
+
+<KEAtweet_8944> a <KEATweet> ;
+    <KEAhasLikes> 3474 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Nicchiban_ Star Peace ✌️" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8944>,
+        "2020-01-23 05:25:05+00:00" .
+
+<KEAtweet_8945> a <KEATweet> ;
+    <KEAhasLikes> 1251 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@GamingSpeedy We’re working on it" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8945>,
+        "2020-01-22 13:04:04+00:00" .
+
+<KEAtweet_8946> a <KEATweet> ;
+    <KEAhasLikes> 29673 ;
+    <KEAhasSentiment> 4e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 1e+00 ;
+    <KEAhasText> "@AypierreMc Agreed, v important" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8946>,
+        "2020-01-22 12:13:30+00:00" .
+
+<KEAtweet_8947> a <KEATweet> ;
+    <KEAhasLikes> 2902 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@thirdrowtesla Blazing Saddles" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8947>,
+        "2020-01-22 12:02:54+00:00" .
+
+<KEAtweet_8948> a <KEATweet> ;
+    <KEAhasLikes> 1658 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Kristennetten @tobyliiiiiiiiii Working on it" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8948>,
+        "2020-01-22 07:23:38+00:00" .
+
+<KEAtweet_8949> a <KEATweet> ;
+    <KEAhasLikes> 10781 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@tobyliiiiiiiiii It’s on the list" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8949>,
+        "2020-01-22 07:19:46+00:00" .
+
+<KEAtweet_8950> a <KEATweet> ;
+    <KEAhasLikes> 77444 ;
+    <KEAhasSentiment> -4e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4e-01 ;
+    <KEAhasText> "Want to play The Witcher game on your Tesla? (you can already watch the show on Tesla Netflix theater)" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8950>,
+        "2020-01-22 07:15:20+00:00" .
+
+<KEAtweet_8951> a <KEATweet> ;
+    <KEAhasLikes> 4374 ;
+    <KEAhasSentiment> -6.25e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 1e+00 ;
+    <KEAhasText> "@ICannot_Enough @thirdrowtesla Explains the sad lack of progress in candy research!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8951>,
+        "2020-01-22 07:02:27+00:00" .
+
+<KEAtweet_8952> a <KEATweet> ;
+    <KEAhasLikes> 1228 ;
+    <KEAhasSentiment> -1e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4e-01 ;
+    <KEAhasText> "@brianm853 Yeah, doors are 40 ft wide" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8952>,
+        "2020-01-22 05:52:01+00:00" .
+
+<KEAtweet_8953> a <KEATweet> ;
+    <KEAhasLikes> 3560 ;
+    <KEAhasSentiment> 4.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.5e-01 ;
+    <KEAhasText> "@JaneidyEve Yeah, we just finished two more propellant domes. SpaceX team &amp; supporting suppliers are doing amazing work ramping Starship production." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8953>,
+        "2020-01-22 05:49:57+00:00" .
+
+<KEAtweet_8954> a <KEATweet> ;
+    <KEAhasLikes> 2598 ;
+    <KEAhasSentiment> 6e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 1e+00 ;
+    <KEAhasText> "@TJ_Cooney @SpaceX Nice shot" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8954>,
+        "2020-01-22 05:47:00+00:00" .
+
+<KEAtweet_8955> a <KEATweet> ;
+    <KEAhasLikes> 56672 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Improved Accommodations https://t.co/iRBK2yIfd7" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8955>,
+        "2020-01-22 05:45:08+00:00" .
+
+<KEAtweet_8956> a <KEATweet> ;
+    <KEAhasLikes> 5529 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@detroitnews Yay!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8956>,
+        "2020-01-21 23:30:24+00:00" .
+
+<KEAtweet_8957> a <KEATweet> ;
+    <KEAhasLikes> 1236 ;
+    <KEAhasSentiment> -8.958333e-02 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4.020833e-01 ;
+    <KEAhasText> "@vm_one1 @Exhaustedpengu1 @RationalEtienne Would like to take a moment to thank Michael &amp; Ze’ev for helping Tesla. It was very hard work &amp; both could’ve just rested on their laurels. Much appreciated 🍻." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8957>,
+        "2020-01-21 17:07:24+00:00" .
+
+<KEAtweet_8958> a <KEATweet> ;
+    <KEAhasLikes> 1641 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@nichegamer 🤣" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8958>,
+        "2020-01-21 17:02:08+00:00" .
+
+<KEAtweet_8959> a <KEATweet> ;
+    <KEAhasLikes> 717 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@PicklePunchD @flcnhvy @thirdrowtesla @Gfilche @Sofiaan @Kristennetten @vincent13031925 Walk this way https://t.co/okyi7invhi" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8959>,
+        "2020-01-21 16:29:49+00:00" .
+
+<KEAtweet_8960> a <KEATweet> ;
+    <KEAhasLikes> 1600 ;
+    <KEAhasSentiment> 1e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 7.5e-01 ;
+    <KEAhasText> "@flcnhvy @thirdrowtesla @Gfilche @Sofiaan @Kristennetten @vincent13031925 Great talking with @thirdrowtesla!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8960>,
+        "2020-01-21 16:24:06+00:00" .
+
+<KEAtweet_8961> a <KEATweet> ;
+    <KEAhasLikes> 5245 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@nichegamer https://t.co/RPcGOjPtfF" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8961>,
+        "2020-01-21 16:17:46+00:00" .
+
+<KEAtweet_8962> a <KEATweet> ;
+    <KEAhasLikes> 1372 ;
+    <KEAhasSentiment> 2e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 2e-01 ;
+    <KEAhasText> "@vm_one1 @Exhaustedpengu1 @RationalEtienne Michael Marks, then Ze’ev Drori, but I helped out as co-CEO as they didn’t have much automotive domain expertise" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8962>,
+        "2020-01-21 14:10:55+00:00" .
+
+<KEAtweet_8963> a <KEATweet> ;
+    <KEAhasLikes> 31399 ;
+    <KEAhasSentiment> 8.75e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6e-01 ;
+    <KEAhasText> "@SpaceX Dragon trunk from in-flight abort test is in surprisingly good shape! https://t.co/IGeffiNh9A" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8963>,
+        "2020-01-20 19:28:20+00:00" .
+
+<KEAtweet_8964> a <KEATweet> ;
+    <KEAhasLikes> 728 ;
+    <KEAhasSentiment> 2.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 2.5e-01 ;
+    <KEAhasText> "@John_Gardi @LytovchenkoSerg @Joffan7 @julia_bergeron @NASASpaceflight Exactly" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8964>,
+        "2020-01-20 07:12:23+00:00" .
+
+<KEAtweet_8965> a <KEATweet> ;
+    <KEAhasLikes> 9672 ;
+    <KEAhasSentiment> 2.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 2e-01 ;
+    <KEAhasText> "@JimBridenstine @NASA @SpaceX @Commercial_Crew Thanks on behalf of the @SpaceX  team! Thank you also for the support @NASA has provided over the years, without which this would not have happened." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8965>,
+        "2020-01-20 05:19:37+00:00" .
+
+<KEAtweet_8966> a <KEATweet> ;
+    <KEAhasLikes> 4892 ;
+    <KEAhasSentiment> 2e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 3e-01 ;
+    <KEAhasText> "@thirdrowtesla Haha" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8966>,
+        "2020-01-19 18:40:17+00:00" .
+
+<KEAtweet_8967> a <KEATweet> ;
+    <KEAhasLikes> 68409 ;
+    <KEAhasSentiment> 3.3e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.2e-01 ;
+    <KEAhasText> "Dragon high altitude, supersonic abort test is a risky mission, as it’s pushing the envelope in so many ways" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8967>,
+        "2020-01-19 15:27:06+00:00" .
+
+<KEAtweet_8968> a <KEATweet> ;
+    <KEAhasLikes> 34736 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "5 mins from liftoff" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8968>,
+        "2020-01-19 15:24:32+00:00" .
+
+<KEAtweet_8969> a <KEATweet> ;
+    <KEAhasLikes> 9284 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@EvaFoxU Yes" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8969>,
+        "2020-01-18 20:31:26+00:00" .
+
+<KEAtweet_8970> a <KEATweet> ;
+    <KEAhasLikes> 79705 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "https://t.co/MHokq4KVEc" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8970>,
+        "2020-01-18 15:44:08+00:00" .
+
+<KEAtweet_8971> a <KEATweet> ;
+    <KEAhasLikes> 273165 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Meteor!! https://t.co/PyXbRZR013" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8971>,
+        "2020-01-18 09:17:53+00:00" .
+
+<KEAtweet_8972> a <KEATweet> ;
+    <KEAhasLikes> 1109 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@JaneidyEve Yes" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8972>,
+        "2020-01-17 22:13:48+00:00" .
+
+<KEAtweet_8973> a <KEATweet> ;
+    <KEAhasLikes> 7456 ;
+    <KEAhasSentiment> 1e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 3e-01 ;
+    <KEAhasText> "Best place to view is from the beach. Excitement guaranteed! https://t.co/6XSiK5dWEn" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8973>,
+        "2020-01-17 22:10:12+00:00" .
+
+<KEAtweet_8974> a <KEATweet> ;
+    <KEAhasLikes> 25018 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Dragon Spacecraft supersonic abort test coming up either tomorrow or Sunday, depending on weather @NASA @SpaceX" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8974>,
+        "2020-01-17 22:09:37+00:00" .
+
+<KEAtweet_8975> a <KEATweet> ;
+    <KEAhasLikes> 850 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@jm_marchante @kekai What should we change?" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8975>,
+        "2020-01-17 22:02:59+00:00" .
+
+<KEAtweet_8976> a <KEATweet> ;
+    <KEAhasLikes> 2260 ;
+    <KEAhasSentiment> 4e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.333333e-01 ;
+    <KEAhasText> "@kekai Munro’s analysis of Tesla engineering is accurate, both pro &amp; con. I think he will appreciate some elements of the Model Y body design." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8976>,
+        "2020-01-17 21:55:53+00:00" .
+
+<KEAtweet_8977> a <KEATweet> ;
+    <KEAhasLikes> 2147 ;
+    <KEAhasSentiment> 2.2e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5e-01 ;
+    <KEAhasText> "@Erdayastronaut @SPEXcast @SciGuySpace Even more important for a a reusable rocket, as cost of propellant actually becomes relevant &amp; anything below T/W of 1 is wasted fuel &amp; oxygen" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8977>,
+        "2020-01-17 10:31:00+00:00" .
+
+<KEAtweet_8978> a <KEATweet> ;
+    <KEAhasLikes> 234385 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Hehehe https://t.co/bnlN7Vn6bl" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8978>,
+        "2020-01-17 09:13:15+00:00" .
+
+<KEAtweet_8979> a <KEATweet> ;
+    <KEAhasLikes> 5756 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@jameslin123321 @Erdayastronaut Helping to pay for this is why I’m accumulating assets on Earth." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8979>,
+        "2020-01-17 02:23:01+00:00" .
+
+<KEAtweet_8980> a <KEATweet> ;
+    <KEAhasLikes> 8558 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@jameslin123321 @Erdayastronaut Loading the Mars fleet into Earth orbit, then 1000 ships depart over ~30 days every 26 months. Battlestar Galactica …" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8980>,
+        "2020-01-17 02:14:30+00:00" .
+
+<KEAtweet_8981> a <KEATweet> ;
+    <KEAhasLikes> 1339 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@mstrwilliam00 @Erdayastronaut Aiming for 20 to 30 years, like aircraft" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8981>,
+        "2020-01-17 02:09:23+00:00" .
+
+<KEAtweet_8982> a <KEATweet> ;
+    <KEAhasLikes> 2841 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Kristennetten @PicklePunchD @Erdayastronaut Yes. There will be a lot of jobs on Mars!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8982>,
+        "2020-01-17 02:08:58+00:00" .
+
+<KEAtweet_8983> a <KEATweet> ;
+    <KEAhasLikes> 2235 ;
+    <KEAhasSentiment> 2e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4.5e-01 ;
+    <KEAhasText> "@PicklePunchD @Erdayastronaut Needs to be such that anyone can go if they want, with loans available for those who don’t have money" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8983>,
+        "2020-01-17 02:07:41+00:00" .
+
+<KEAtweet_8984> a <KEATweet> ;
+    <KEAhasLikes> 1041 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@EcoHeliGuy @Erdayastronaut Yeah. A lot of work is needed for propellant production on Mars." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8984>,
+        "2020-01-17 02:05:51+00:00" .
+
+<KEAtweet_8985> a <KEATweet> ;
+    <KEAhasLikes> 1267 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@PRANSHUAGARWA13 @Erdayastronaut Yes" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8985>,
+        "2020-01-17 02:03:56+00:00" .
+
+<KEAtweet_8986> a <KEATweet> ;
+    <KEAhasLikes> 4443 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Erdayastronaut That’s the goal" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8986>,
+        "2020-01-17 02:03:03+00:00" .
+
+<KEAtweet_8987> a <KEATweet> ;
+    <KEAhasLikes> 4925 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Erdayastronaut Building 100 Starships/year gets to 1000 in 10 years or 100 megatons/year or maybe around 100k people per Earth-Mars orbital sync" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8987>,
+        "2020-01-17 02:01:37+00:00" .
+
+<KEAtweet_8988> a <KEATweet> ;
+    <KEAhasLikes> 6976 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Erdayastronaut Starship design goal is 3 flights/day avg rate, so ~1000 flights/year at &gt;100 tons/flight, so every 10 ships yield 1 megaton per year to orbit" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8988>,
+        "2020-01-17 01:56:37+00:00" .
+
+<KEAtweet_8989> a <KEATweet> ;
+    <KEAhasLikes> 57858 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Megatons per year to orbit are needed for life to become multiplanetary" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8989>,
+        "2020-01-17 01:46:26+00:00" .
+
+<KEAtweet_8990> a <KEATweet> ;
+    <KEAhasLikes> 734 ;
+    <KEAhasSentiment> 2.857143e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.357143e-01 ;
+    <KEAhasText> "@fighteer1 @LCS_Big_Mike @SciGuySpace That’s about right" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8990>,
+        "2020-01-17 01:43:05+00:00" .
+
+<KEAtweet_8991> a <KEATweet> ;
+    <KEAhasLikes> 5942 ;
+    <KEAhasSentiment> -1e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 1e-01 ;
+    <KEAhasText> "@g33st111 Reaction to Cyberpunk 2077 slipping release date to September" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8991>,
+        "2020-01-17 00:40:52+00:00" .
+
+<KEAtweet_8992> a <KEATweet> ;
+    <KEAhasLikes> 1770 ;
+    <KEAhasSentiment> 3e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 9.5e-01 ;
+    <KEAhasText> "@SPEXcast @SciGuySpace What’s amazing is how non-linear the effect of gravity is. Starship can travel by itself from surface of Mars to surface of Earth, but requires massive booster on Earth with orbital refilling to get to Mars, which is ~38% of Earth gravity." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8992>,
+        "2020-01-16 22:51:19+00:00" .
+
+<KEAtweet_8993> a <KEATweet> ;
+    <KEAhasLikes> 1154 ;
+    <KEAhasSentiment> -7.142857e-02 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 1.428571e-01 ;
+    <KEAhasText> "@SPEXcast @SciGuySpace Densification isn’t needed to return the ship &amp; limited cargo from Mars, but it’s an option for increasing cargo return capability if needed" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8993>,
+        "2020-01-16 22:47:02+00:00" .
+
+<KEAtweet_8994> a <KEATweet> ;
+    <KEAhasLikes> 3318 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@SciGuySpace Fundamental issue with SLS is that it’s not reusable, which means that a billion dollar rocket is blown up every launch! 💯 tragedy." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8994>,
+        "2020-01-16 22:44:07+00:00" .
+
+<KEAtweet_8995> a <KEATweet> ;
+    <KEAhasLikes> 1435 ;
+    <KEAhasSentiment> 5e-02 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.321429e-01 ;
+    <KEAhasText> "@SciGuySpace Densifying hydrogen is difficult, as its liquid temp is close to absolute zero. Much easier with CH4, which is an underappreciated advantage. Cooling O2 is good too, but becomes operationally difficult at N2 liquid temp, as air is ~78% N2. Entire system wants to drip air!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8995>,
+        "2020-01-16 22:41:18+00:00" .
+
+<KEAtweet_8996> a <KEATweet> ;
+    <KEAhasLikes> 7013 ;
+    <KEAhasSentiment> -3.277778e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.444444e-01 ;
+    <KEAhasText> "@Teslarati Sorry, migh have brought the site down" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8996>,
+        "2020-01-16 20:12:34+00:00" .
+
+<KEAtweet_8997> a <KEATweet> ;
+    <KEAhasLikes> 66345 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Starship orbital vehicle SN1, liquid oxygen header tank &amp; nosecone https://t.co/IaSEdIyZgP" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8997>,
+        "2020-01-16 09:35:55+00:00" .
+
+<KEAtweet_8998> a <KEATweet> ;
+    <KEAhasLikes> 11885 ;
+    <KEAhasSentiment> 2.325397e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.349206e-01 ;
+    <KEAhasText> "@nntaleb Just saw this today. Tesla refunds in general should be easy to get electronically &amp; certainly through customer service. Will he addressed." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8998>,
+        "2020-01-15 17:09:01+00:00" .
+
+<KEAtweet_8999> a <KEATweet> ;
+    <KEAhasLikes> 4417 ;
+    <KEAhasSentiment> 1.500833e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4.611667e-01 ;
+    <KEAhasText> "@ErlendMoberget @ramez @KHayhoe Very true. What’s really mindblowing is how much energy the sun outputs &amp; how little of it is absorbed by Earth. There is sooo much solar energy. We can solar power all of human civilization with a tiny % of Earth’s surface, which is a super tiny % of energy emitted by the sun." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_8999>,
+        "2020-01-14 20:20:57+00:00" .
+
+<KEAtweet_9000> a <KEATweet> ;
+    <KEAhasLikes> 1838 ;
+    <KEAhasSentiment> -6.25e-02 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.875e-01 ;
+    <KEAhasText> "@Alejandro_DebH @macshlibber @SpaceflightNow Advancing humanity’s understanding of the Universe is a fundamental motivator for SpaceX! Starship can put giant 🔭 in orbit &amp; on moon. With an occluder, could image 🌏 in other star systems." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9000>,
+        "2020-01-14 20:14:59+00:00" .
+
+<KEAtweet_9001> a <KEATweet> ;
+    <KEAhasLikes> 2117 ;
+    <KEAhasSentiment> -2.916667e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.416667e-01 ;
+    <KEAhasText> "@Neuro_Skeptic One person’s MRI machine is another’s railgun! Made a primitive one when I was studying physics at Penn. Hard to wield though." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9001>,
+        "2020-01-14 20:08:58+00:00" .
+
+<KEAtweet_9002> a <KEATweet> ;
+    <KEAhasLikes> 1404 ;
+    <KEAhasSentiment> 3.965909e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.483586e-01 ;
+    <KEAhasText> "@Alejandro_DebH @macshlibber @SpaceflightNow Exactly. We’ve had good discussions with leading astronomers. One way or another, we’ll make sure Starlink doesn’t inhibit new discoveries or change the character of the night sky." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9002>,
+        "2020-01-14 20:04:32+00:00" .
+
+<KEAtweet_9003> a <KEATweet> ;
+    <KEAhasLikes> 9719 ;
+    <KEAhasSentiment> 8e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 7.5e-01 ;
+    <KEAhasText> "Great song https://t.co/Zojlie0GG7" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9003>,
+        "2020-01-14 18:23:23+00:00" .
+
+<KEAtweet_9004> a <KEATweet> ;
+    <KEAhasLikes> 44190 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> """T-shirt is bulletproof &amp; makes u buff!
+https://t.co/wO0oAakclu https://t.co/8k1WvVO1sm""" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9004>,
+        "2020-01-14 17:59:16+00:00" .
+
+<KEAtweet_9005> a <KEATweet> ;
+    <KEAhasLikes> 7132 ;
+    <KEAhasSentiment> 2.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 2e-01 ;
+    <KEAhasText> "@rhoehn @Tesla Thanks for mentioning! We should’ve done this ages ago." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9005>,
+        "2020-01-14 02:01:23+00:00" .
+
+<KEAtweet_9006> a <KEATweet> ;
+    <KEAhasLikes> 3258 ;
+    <KEAhasSentiment> 1.72e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.28e-01 ;
+    <KEAhasText> "@ramez @KHayhoe Good analysis, although a bit conservative imo. However, using a high upper bound for land area that’s *still* a tiny % of the US prob helps convert some naysayers. That giant fusion reactor in the sky called the sun outputs a truly staggering amount of energy!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9006>,
+        "2020-01-13 18:47:40+00:00" .
+
+<KEAtweet_9007> a <KEATweet> ;
+    <KEAhasLikes> 18422 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> ".@Space_Station" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9007>,
+        "2020-01-12 08:30:15+00:00" .
+
+<KEAtweet_9008> a <KEATweet> ;
+    <KEAhasLikes> 4235 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Kristennetten They will" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9008>,
+        "2020-01-12 03:44:57+00:00" .
+
+<KEAtweet_9009> a <KEATweet> ;
+    <KEAhasLikes> 1371 ;
+    <KEAhasSentiment> 7.8125e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5e-01 ;
+    <KEAhasText> "@Mafaruk_Bagwan We need more emojis!!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9009>,
+        "2020-01-12 03:42:46+00:00" .
+
+<KEAtweet_9010> a <KEATweet> ;
+    <KEAhasLikes> 33575 ;
+    <KEAhasSentiment> 2.75e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.625e-01 ;
+    <KEAhasText> "And, of course, your car will be able to 💨 in their general direction" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9010>,
+        "2020-01-12 03:24:43+00:00" .
+
+<KEAtweet_9011> a <KEATweet> ;
+    <KEAhasLikes> 6668 ;
+    <KEAhasSentiment> 4.40625e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.444444e-01 ;
+    <KEAhasText> "@theXential For sure!! This will make for some epic robber confusion 🤣🤣" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9011>,
+        "2020-01-12 03:23:25+00:00" .
+
+<KEAtweet_9012> a <KEATweet> ;
+    <KEAhasLikes> 142300 ;
+    <KEAhasSentiment> 2e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 3e-01 ;
+    <KEAhasText> "Teslas will soon talk to people if you want. This is real. https://t.co/8AJdERX5qa" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9012>,
+        "2020-01-12 03:20:41+00:00" .
+
+<KEAtweet_9013> a <KEATweet> ;
+    <KEAhasLikes> 1149 ;
+    <KEAhasSentiment> 5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.25e-01 ;
+    <KEAhasText> "@bluemoondance74 @flcnhvy @SpaceX Should be able to post video of Raptor on Tripod soon" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9013>,
+        "2020-01-12 02:25:08+00:00" .
+
+<KEAtweet_9014> a <KEATweet> ;
+    <KEAhasLikes> 1846 ;
+    <KEAhasSentiment> 5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5e-01 ;
+    <KEAhasText> "@flcnhvy @nextspaceflight @SmileSimplify @SpaceX Ok, tho could be gnarly" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9014>,
+        "2020-01-12 02:09:29+00:00" .
+
+<KEAtweet_9015> a <KEATweet> ;
+    <KEAhasLikes> 2403 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@nextspaceflight @SmileSimplify @SpaceX Destroyed in Dragon fire" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9015>,
+        "2020-01-12 00:03:58+00:00" .
+
+<KEAtweet_9016> a <KEATweet> ;
+    <KEAhasLikes> 2058 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 1e+00 ;
+    <KEAhasText> "@SmileSimplify @SpaceX We tried to design a way to save B1046, but not possible 😞" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9016>,
+        "2020-01-12 00:01:43+00:00" .
+
+<KEAtweet_9017> a <KEATweet> ;
+    <KEAhasLikes> 17399 ;
+    <KEAhasSentiment> -1e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.5e-01 ;
+    <KEAhasText> "Critical test launch before flying astronauts is green for Jan 18" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9017>,
+        "2020-01-11 23:55:38+00:00" .
+
+<KEAtweet_9018> a <KEATweet> ;
+    <KEAhasLikes> 2137 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@strangecosmos @annerajb Soon" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9018>,
+        "2020-01-11 16:12:39+00:00" .
+
+<KEAtweet_9019> a <KEATweet> ;
+    <KEAhasLikes> 6551 ;
+    <KEAhasSentiment> -2.916667e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.416667e-01 ;
+    <KEAhasText> "@annerajb Hard gothic" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9019>,
+        "2020-01-11 15:39:02+00:00" .
+
+<KEAtweet_9020> a <KEATweet> ;
+    <KEAhasLikes> 1811 ;
+    <KEAhasSentiment> 2e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 3e-01 ;
+    <KEAhasText> "@d1rtydan Haha" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9020>,
+        "2020-01-11 15:32:44+00:00" .
+
+<KEAtweet_9021> a <KEATweet> ;
+    <KEAhasLikes> 93449 ;
+    <KEAhasSentiment> -2e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "We are trapped in a prison of fonts" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9021>,
+        "2020-01-11 15:30:02+00:00" .
+
+<KEAtweet_9022> a <KEATweet> ;
+    <KEAhasLikes> 1310 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@flcnhvy @Erdayastronaut @BocaChicaGal @NASASpaceflight Yes" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9022>,
+        "2020-01-11 02:40:20+00:00" .
+
+<KEAtweet_9023> a <KEATweet> ;
+    <KEAhasLikes> 1281 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@RQuiddich Every tank under pressure is a balloon tank — it’s just question of degree. Starship tanks are not balloon tanks like Atlas in sense that they don’t collapse when depressurized on the ground." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9023>,
+        "2020-01-10 23:26:33+00:00" .
+
+<KEAtweet_9024> a <KEATweet> ;
+    <KEAhasLikes> 1747 ;
+    <KEAhasSentiment> 9.166667e-03 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.283333e-01 ;
+    <KEAhasText> "@Erdayastronaut @BocaChicaGal @NASASpaceflight Everything is compressible, but liquid compression at these pressures is not significant. However, the tanks do expand under pressure, creating a bit more volume. Keeping propellant super cold has a big effect on density of ~10% in case of CH4." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9024>,
+        "2020-01-10 23:24:10+00:00" .
+
+<KEAtweet_9025> a <KEATweet> ;
+    <KEAhasLikes> 1690 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Erdayastronaut @BocaChicaGal @NASASpaceflight A given tank pressure is needed to feed the engine turbopumps &amp; pressure-stabilize/relieve compression load on the cylinder walls" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9025>,
+        "2020-01-10 23:20:50+00:00" .
+
+<KEAtweet_9026> a <KEATweet> ;
+    <KEAhasLikes> 4187 ;
+    <KEAhasSentiment> 4.7e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.8e-01 ;
+    <KEAhasText> "@Erdayastronaut @BocaChicaGal @NASASpaceflight Dome to barrel weld made it to 7.1 bar, which is pretty good as ~6 bar is needed for orbital flight. With more precise parts &amp; better welding conditions, we should reach ~8.5 bar, which is the 1.4 factor of safety needed for crewed flight." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9026>,
+        "2020-01-10 19:38:01+00:00" .
+
+<KEAtweet_9027> a <KEATweet> ;
+    <KEAhasLikes> 15529 ;
+    <KEAhasSentiment> 8e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 7.5e-01 ;
+    <KEAhasText> "@rainnwilson Great idea" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9027>,
+        "2020-01-10 17:07:26+00:00" .
+
+<KEAtweet_9028> a <KEATweet> ;
+    <KEAhasLikes> 8318 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Ye4bu @AyyAnge 🔥 &amp; ⚡️" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9028>,
+        "2020-01-10 10:12:56+00:00" .
+
+<KEAtweet_9029> a <KEATweet> ;
+    <KEAhasLikes> 193533 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "🎶 Toss a coin to ur Witcher 🎶" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9029>,
+        "2020-01-10 09:57:08+00:00" .
+
+<KEAtweet_9030> a <KEATweet> ;
+    <KEAhasLikes> 197367 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Phony https://t.co/w9nyOAxQus" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9030>,
+        "2020-01-10 07:19:46+00:00" .
+
+<KEAtweet_9031> a <KEATweet> ;
+    <KEAhasLikes> 6441 ;
+    <KEAhasSentiment> 2.75e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4.75e-01 ;
+    <KEAhasText> "@Nicoo_Correa Haha true" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9031>,
+        "2020-01-10 07:09:34+00:00" .
+
+<KEAtweet_9032> a <KEATweet> ;
+    <KEAhasLikes> 1135 ;
+    <KEAhasSentiment> 3.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.5e-01 ;
+    <KEAhasText> "@thirdrowtesla True" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9032>,
+        "2020-01-10 07:06:29+00:00" .
+
+<KEAtweet_9033> a <KEATweet> ;
+    <KEAhasLikes> 2495 ;
+    <KEAhasSentiment> -2e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 3e-01 ;
+    <KEAhasText> "@universal_sci The sun is green (peak photon frequency)" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9033>,
+        "2020-01-10 07:02:08+00:00" .
+
+<KEAtweet_9034> a <KEATweet> ;
+    <KEAhasLikes> 2919 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@bitcoin2020conf 😉" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9034>,
+        "2020-01-10 06:58:23+00:00" .
+
+<KEAtweet_9035> a <KEATweet> ;
+    <KEAhasLikes> 113092 ;
+    <KEAhasSentiment> 5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5e-01 ;
+    <KEAhasText> "Bitcoin is *not* my safe word" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9035>,
+        "2020-01-10 06:53:10+00:00" .
+
+<KEAtweet_9036> a <KEATweet> ;
+    <KEAhasLikes> 10438 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@Grimezsz x is y" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9036>,
+        "2020-01-10 06:36:15+00:00" .
+
+<KEAtweet_9037> a <KEATweet> ;
+    <KEAhasLikes> 5227 ;
+    <KEAhasSentiment> 5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 8.888889e-01 ;
+    <KEAhasText> "@teslaownersSV Sure" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9037>,
+        "2020-01-10 06:29:41+00:00" .
+
+<KEAtweet_9038> a <KEATweet> ;
+    <KEAhasLikes> 395600 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "I put the art in fart" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9038>,
+        "2020-01-09 10:04:44+00:00" .
+
+<KEAtweet_9039> a <KEATweet> ;
+    <KEAhasLikes> 22308 ;
+    <KEAhasSentiment> 2e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 3e-01 ;
+    <KEAhasText> "@fvckgerry Haha spectrum af 👶🏻" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9039>,
+        "2020-01-09 09:21:14+00:00" .
+
+<KEAtweet_9040> a <KEATweet> ;
+    <KEAhasLikes> 4621 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> """@nichegamer King of the Goblins,
+Master of the Labyrinth""" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9040>,
+        "2020-01-08 23:48:18+00:00" .
+
+<KEAtweet_9041> a <KEATweet> ;
+    <KEAhasLikes> 84089 ;
+    <KEAhasSentiment> 4.6875e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 7e-01 ;
+    <KEAhasText> """♥️♥️ Tesla China Team ♥️♥️
+     Such amazing progress!!""" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9041>,
+        "2020-01-08 17:05:30+00:00" .
+
+<KEAtweet_9042> a <KEATweet> ;
+    <KEAhasLikes> 1466 ;
+    <KEAhasSentiment> 2.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 7.5e-01 ;
+    <KEAhasText> "@BnOrdhaug @Erdayastronaut I haven’t cross-checked RCS pulses with the MLI dimpling on the video, but it’s most likely the cause" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9042>,
+        "2020-01-07 20:28:58+00:00" .
+
+<KEAtweet_9043> a <KEATweet> ;
+    <KEAhasLikes> 19685 ;
+    <KEAhasSentiment> 6e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 1e+00 ;
+    <KEAhasText> "@webtekno Nice 🤣🤣" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9043>,
+        "2020-01-07 20:20:30+00:00" .
+
+<KEAtweet_9044> a <KEATweet> ;
+    <KEAhasLikes> 3622 ;
+    <KEAhasSentiment> 8.333333e-02 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.666667e-01 ;
+    <KEAhasText> "@Erdayastronaut Since there’s only one main engine, which gives pitch and yaw control, roll control is provided by the nitrogen attitude control thrusters" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9044>,
+        "2020-01-07 20:14:35+00:00" .
+
+<KEAtweet_9045> a <KEATweet> ;
+    <KEAhasLikes> 2732 ;
+    <KEAhasSentiment> -1.5625e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4.330357e-01 ;
+    <KEAhasText> """@annerajb @waitbutwhy Looks like a thin, flat, round UFO on a stick. Starlink Terminal has motors to self-adjust optimal angle to view sky. Instructions are simply:
+  - Plug in socket
+  - Point at sky
+These instructions work in either order. No training required.""" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9045>,
+        "2020-01-07 14:06:05+00:00" .
+
+<KEAtweet_9046> a <KEATweet> ;
+    <KEAhasLikes> 18890 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@RenataKonkoly @RationalEtienne Just tryin to grow my follower count on pornhub …" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9046>,
+        "2020-01-07 13:53:28+00:00" .
+
+<KEAtweet_9047> a <KEATweet> ;
+    <KEAhasLikes> 3081 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@RationalEtienne 🔥🔥🤣🤣" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9047>,
+        "2020-01-07 13:45:50+00:00" .
+
+<KEAtweet_9048> a <KEATweet> ;
+    <KEAhasLikes> 757 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@waitbutwhy DKE^DKE" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9048>,
+        "2020-01-07 13:25:41+00:00" .
+
+<KEAtweet_9049> a <KEATweet> ;
+    <KEAhasLikes> 1721 ;
+    <KEAhasSentiment> 6e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 9e-01 ;
+    <KEAhasText> "@flcnhvy Sprockets was amazing" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9049>,
+        "2020-01-07 10:00:33+00:00" .
+
+<KEAtweet_9050> a <KEATweet> ;
+    <KEAhasLikes> 272169 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "At Tesla Giga Shanghai NSFW!! https://t.co/1yrPyzJQGZ" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9050>,
+        "2020-01-07 09:47:04+00:00" .
+
+<KEAtweet_9051> a <KEATweet> ;
+    <KEAhasLikes> 2299 ;
+    <KEAhasSentiment> -3e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4e-01 ;
+    <KEAhasText> "@tobyliiiiiiiiii At least 4" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9051>,
+        "2020-01-07 09:40:14+00:00" .
+
+<KEAtweet_9052> a <KEATweet> ;
+    <KEAhasLikes> 53863 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "cgi irl" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9052>,
+        "2020-01-07 09:37:34+00:00" .
+
+<KEAtweet_9053> a <KEATweet> ;
+    <KEAhasLikes> 752 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@DonaldM38768041 Bossart was boss art!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9053>,
+        "2020-01-07 09:27:18+00:00" .
+
+<KEAtweet_9054> a <KEATweet> ;
+    <KEAhasLikes> 1315 ;
+    <KEAhasSentiment> 2.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 3e-01 ;
+    <KEAhasText> "@Austen Haha this rocks!" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9054>,
+        "2020-01-07 09:22:51+00:00" .
+
+<KEAtweet_9055> a <KEATweet> ;
+    <KEAhasLikes> 1215 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@flcnhvy @slashdot 🤣🤣" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9055>,
+        "2020-01-06 23:51:30+00:00" .
+
+<KEAtweet_9056> a <KEATweet> ;
+    <KEAhasLikes> 2031 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@slashdot The Nirvana baby is about a year away from turning 30" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9056>,
+        "2020-01-06 23:11:06+00:00" .
+
+<KEAtweet_9057> a <KEATweet> ;
+    <KEAhasLikes> 3018 ;
+    <KEAhasSentiment> 5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5e-01 ;
+    <KEAhasText> "@7400N @Model3Owners Ok" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9057>,
+        "2020-01-05 18:08:31+00:00" .
+
+<KEAtweet_9058> a <KEATweet> ;
+    <KEAhasLikes> 2823 ;
+    <KEAhasSentiment> 7e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 9e-01 ;
+    <KEAhasText> "@APompliano @Tesla Fair piece by Stoll" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9058>,
+        "2020-01-05 17:51:01+00:00" .
+
+<KEAtweet_9059> a <KEATweet> ;
+    <KEAhasLikes> 4783 ;
+    <KEAhasSentiment> 5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5e-01 ;
+    <KEAhasText> "@Model3Owners Ok" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9059>,
+        "2020-01-05 17:23:17+00:00" .
+
+<KEAtweet_9060> a <KEATweet> ;
+    <KEAhasLikes> 274693 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Wikigenius https://t.co/P0jM14hGrc" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9060>,
+        "2020-01-05 00:35:42+00:00" .
+
+<KEAtweet_9061> a <KEATweet> ;
+    <KEAhasLikes> 1252 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "@annerajb @slashdot Zip2" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9061>,
+        "2020-01-04 03:35:20+00:00" .
+
+<KEAtweet_9062> a <KEATweet> ;
+    <KEAhasLikes> 6324 ;
+    <KEAhasSentiment> 6.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 4e-01 ;
+    <KEAhasText> "@hot_rod_co @Tesla People talk about the products they *love*, that touch their heart &amp; bring moments of joy" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9062>,
+        "2020-01-04 03:33:58+00:00" .
+
+<KEAtweet_9063> a <KEATweet> ;
+    <KEAhasLikes> 2228 ;
+    <KEAhasSentiment> 1.75e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 6.666667e-01 ;
+    <KEAhasText> "@slashdot Wow, I built my first server room with parts from Fry’s. Ending of an era." ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9063>,
+        "2020-01-04 03:25:03+00:00" .
+
+<KEAtweet_9064> a <KEATweet> ;
+    <KEAhasLikes> 148983 ;
+    <KEAhasSentiment> 5.5e-01 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 5.75e-01 ;
+    <KEAhasText> "Congratulations Tesla &amp; SpaceX on great 2019! You rock!! Looking forward to epic 2020 ♥️🚀🛰🚘☀️" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9064>,
+        "2020-01-01 06:50:06+00:00" .
+
+<KEAtweet_9065> a <KEATweet> ;
+    <KEAhasLikes> 68517 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "No one suspected his disguise https://t.co/yHl4MDrjtn" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9065>,
+        "2020-01-01 06:33:47+00:00" .
+
+<KEAtweet_9066> a <KEATweet> ;
+    <KEAhasLikes> 123712 ;
+    <KEAhasSentiment> 0e+00 ;
+    <KEAhasSource> "Twitter for iPhone" ;
+    <KEAhasSubjectivity> 0e+00 ;
+    <KEAhasText> "Carlos Gone" ;
+    <KEAmentions> <KEA> ;
+    <KEAonDay> <KEAdate_9066>,
+        "2020-01-01 05:32:58+00:00" .
+
+<KEA> a <KEACompany> .
+

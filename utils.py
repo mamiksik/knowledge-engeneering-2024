@@ -41,7 +41,7 @@ def save_graph_to_file(g: Graph, filename: str):
     ttl_data = g.serialize(format='turtle')
 
     # Save RDF Turtle data to a file
-    with open(filename, "w") as f:
+    with open(filename, "w", encoding='utf-8') as f:
         f.write(ttl_data)
 
     print(f"All data saved to {filename}")
