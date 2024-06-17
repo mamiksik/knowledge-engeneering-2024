@@ -1,0 +1,49 @@
+#RQ2: How much did Elon Musk's tweets influence the stock price of Tesla between 1-1-2020 and 31-12-2022?
+
+PREFIX ex: <http://kea.local/>
+SELECT
+    ?date
+    (COUNT(DISTINCT ?mentionedCompany) as ?companyCount)
+    (GROUP_CONCAT(DISTINCT ?mentionedCompanyName; separator=", ") as ?mentionedCompanies)
+    (IF(CONTAINS(?mentionedCompanies, "tesla"), "Yes", "No") as ?mentionsTesla)
+    (COUNT(DISTINCT ?tweet) as ?tweetCount)
+    (AVG(?sentiment) as ?avgSentiment)
+    (AVG(?subjectivity) as ?avgSubjectivity)
+    (AVG(?priceBefore) as ?avgPriceBefore)
+    (AVG(?priceAfter) as ?avgPriceAfter)
+    ((?avgPriceAfter - ?avgPriceBefore) as ?avgPriceChangeAfter)
+WHERE {
+    # Select all the dates
+    ?date a ex:Date.
+    {
+        # For each date, get the sentiment of the war news
+        ?tweet a ex:Tweet ;
+            ex:onDay ?date ;
+            ex:hasSentiment ?sentiment ;
+            ex:hasSubjectivity ?subjectivity ;
+            ex:mentions ?mentionedCompany .
+
+        ?mentionedCompany a ex:Company ;
+            ex:hasName ?mentionedCompanyName .
+    } UNION {
+        # Price the day before
+        ?dateBefore a ex:Date ;
+            ex:nextDay ?date .
+        ?pricePointBefore a ex:PricePoint ;
+            ex:hasTickerSymbol "TSLA" ;
+            ex:onDay ?dateBefore ;
+            ex:hasClosingPrice ?priceBefore .
+
+    } UNION {
+        # Price the day after
+        ?dateAfter a ex:Date ;
+            ex:previousDay ?date .
+        ?pricePointAfter a ex:PricePoint ;
+            ex:hasTickerSymbol "TSLA" ;
+            ex:onDay ?dateAfter ;
+            ex:hasClosingPrice ?priceAfter .
+    }
+}
+GROUP BY ?date
+HAVING (?companyCount > 0 && ?avgPriceBefore > 0 && ?avgPriceAfter > 0)
+ORDER BY ?date

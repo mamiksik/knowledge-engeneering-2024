@@ -1,0 +1,42 @@
+#RQ1: Most important factor for SAP500 -> Influence of covid-19 news on stock prices
+
+PREFIX ex: <http://kea.local/>
+
+SELECT
+    ?date
+    (GROUP_CONCAT(DISTINCT ?sentiment; separator=", ") as ?sentiments)
+    (AVG(?priceBefore) as ?avgPriceBefore)
+    (AVG(?priceAfter) as ?avgPriceAfter)
+    ((?avgPriceAfter - ?avgPriceBefore) as ?avgPriceChangeAfter)
+WHERE {
+    # Select all the dates
+    ?date a ex:Date.
+    {
+        # For each date, get the sentiment of the war news
+        ?vaccineSentimentAgg a ex:AverageVaccinationSentiment ;
+            ex:hasDate ?date ;
+            ex:hasAverageSentiment ?sentiment .
+    } UNION {
+        # For each date, get the closing price of the stock
+        ?pricePoint a ex:PricePoint ;
+            ex:onDay ?date ;
+            ex:hasClosingPrice ?price .
+    } UNION {
+        # Price the day before
+        ?dateBefore a ex:Date ;
+            ex:nextDay ?date .
+        ?pricePointBefore a ex:PricePoint ;
+            ex:onDay ?dateBefore ;
+            ex:hasClosingPrice ?priceBefore .
+    } UNION {
+        # Price the day after
+        ?dateAfter a ex:Date ;
+            ex:previousDay ?date .
+        ?pricePointAfter a ex:PricePoint ;
+            ex:onDay ?dateAfter ;
+            ex:hasClosingPrice ?priceAfter .
+    }
+}
+GROUP BY ?date
+HAVING (?avgPriceBefore > 0 && ?avgPriceAfter > 0)
+ORDER BY ?date

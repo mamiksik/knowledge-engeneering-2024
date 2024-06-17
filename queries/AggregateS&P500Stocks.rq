@@ -1,0 +1,11 @@
+PREFIX ex: <http://kea.local/>
+
+SELECT ?date (SUM(?price) AS ?totalPriceSAP)
+WHERE {
+    ?stock a ex:Stock;
+        ex:hasPrice ?pricePoint.
+#        ex:isSAP500 true.
+    ?pricePoint ex:hasClosingPrice ?price.
+    ?pricePoint ex:onDay ?date.
+}
+GROUP BY ?date
