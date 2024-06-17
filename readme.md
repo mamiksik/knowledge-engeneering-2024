@@ -19,6 +19,8 @@ This is a repository containing scripts for fetching, processing data, and integ
 4. Add new function to the main script (`main.py`) and call the function created in step 3, passing necessary parameters and possible saving the result to file. Make sure the function is decorated with `@cli_app.command()`
 5. Use click to add optional parameters to the function
 
+**We welcome contributions to this repository. If you have any questions, feel free to open an issue.**
+
 # Components requiring heavy preprocessing computation
 For components that require heavy preprocessing computation, such as sentiment analysis using large language models, it's recomended to handle the preprocessing in a separate notebook or script and save the result to a file. 
 The main script should then load the file and perform the remaining operations. This will save time and resources. 
